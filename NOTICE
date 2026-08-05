@@ -1,0 +1,17 @@
+Paranoid Source Deobfuscator
+Copyright 2026 Contributors
+
+This project contains an independent source-level implementation compatible
+with the string decoding algorithm used by LSParanoid.
+
+LSParanoid:
+  Copyright 2021 Michael Rozumyanskiy
+  Copyright 2023 LSPosed
+  https://github.com/LSPosed/LSParanoid
+
+MichaelRocks/paranoid:
+  Copyright Michael Rozumyanskiy
+  https://github.com/MichaelRocks/paranoid
+
+LSParanoid and paranoid are licensed under the Apache License, Version 2.0.
+This project is not affiliated with LSPosed or Michael Rozumyanskiy.

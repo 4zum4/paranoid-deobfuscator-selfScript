@@ -1,0 +1,16 @@
+# Generated test output
+tests/output/
+
+# Tool output
+patched_source/
+decoded_strings.tsv
+unresolved_calls.tsv
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
