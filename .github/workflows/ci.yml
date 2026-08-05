@@ -19,4 +19,4 @@ jobs:
           java-version: "17"
 
       - name: Run smoke test
-        run: ./tests/run-smoke-test.sh
+        run: bash ./tests/run-smoke-test.sh
